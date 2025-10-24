@@ -55,15 +55,17 @@ The entry is automatically saved to `expenses.csv`.
 ---
 
 ⚙️ How to Run the Project
+
 1. Clone the Repository
+
 git clone https://github.com/<your-username>/Personal-Expense-Tracker.git
+
 2. Navigate into the folder
-bash
-Copy code
+
 cd Personal-Expense-Tracker
+
 3. Run the program
-bash
-Copy code
+
 python main.py
 
 ---
