@@ -34,22 +34,6 @@ Personal-Expense-Tracker/
 
 ---
 
-## ⚙️ How to Run the Project
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/<your-username>/Personal-Expense-Tracker.git
-2. Navigate into the folder
-bash
-Copy code
-cd Personal-Expense-Tracker
-3. Run the program
-bash
-Copy code
-python main.py
-
----
-
 ## 🧠 How It Works
 
 Run the program  
@@ -70,6 +54,20 @@ The entry is automatically saved to `expenses.csv`.
 
 ---
 
+⚙️ How to Run the Project
+1. Clone the Repository
+git clone https://github.com/<your-username>/Personal-Expense-Tracker.git
+2. Navigate into the folder
+bash
+Copy code
+cd Personal-Expense-Tracker
+3. Run the program
+bash
+Copy code
+python main.py
+
+---
+
 ## 🔮 Future Enhancements
 
 - Add graphical interface using Tkinter or Streamlit  
@@ -82,7 +80,7 @@ The entry is automatically saved to `expenses.csv`.
 
 ## 👩‍💻 Author
 
-**Kavynaya S**  
+Kavynaya S 
 📘 Developed as part of a learning project on Python fundamentals and file handling.
 
 ---
