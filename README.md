@@ -48,48 +48,54 @@ bash
 Copy code
 python main.py
 
-## 🧑‍💻 How It Works
+---
 
-Run the program
+## 🧠 How It Works
+
+Run the program  
 You’ll be shown a menu with options to:
 
-Add Expense
+- Add Expense  
+- View Expenses  
+- View Total Expenses  
+- Exit  
 
-View Expenses
+### ➕ Add an Expense
+Enter details such as category, description, and amount.  
+The entry is automatically saved to `expenses.csv`.
 
-View Total Expenses
+### 📊 View or Calculate
+- Option 2 displays all expenses neatly.  
+- Option 3 calculates the total expense so far.
 
-Exit
+---
 
-Add an Expense
-Enter details such as category, description, and amount.
-The entry is automatically saved to expenses.csv.
+## 🔮 Future Enhancements
 
-View or Calculate
+- Add graphical interface using Tkinter or Streamlit  
+- Add expense filtering by date or category  
+- Generate monthly reports  
+- Integrate with database (SQLite or MySQL)  
+- Visualize expenses using Matplotlib  
 
-Option 2 displays all expenses neatly.
+---
 
-Option 3 calculates the total expense so far
+## 👩‍💻 Author
 
-🧩 Future Enhancements
-Add graphical interface using Tkinter or Streamlit
+**Kavynaya S**  
+📘 Developed as part of a learning project on Python fundamentals and file handling.
 
-Add expense filtering by date or category
+---
 
-Generate monthly reports
+## 🛡️ License
 
-Integrate with database (SQLite or MySQL)
+This project is open-source and available under the **MIT License**.
 
-Visualize expenses using Matplotlib
+---
 
-🌟 Author
-👩‍💻 Kavynaya S
-📫 Developed as part of a learning project on Python fundamentals and file handling.
+## 🤝 Contributing
 
-🛡️ License
-This project is open-source and available under the MIT License.
-
-🤝 Contributing
-Contributions are always welcome!
+Contributions are always welcome!  
 Fork the repo and submit a pull request to suggest improvements or fixes.
 
+---
