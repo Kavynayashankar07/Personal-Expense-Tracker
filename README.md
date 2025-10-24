@@ -32,9 +32,6 @@ Personal-Expense-Tracker/
 ├── expenses.csv # Stores recorded expenses
 └── README.md # Project documentation
 
-yaml
-Copy code
-
 ---
 
 ## ⚙️ How to Run the Project
@@ -51,7 +48,8 @@ bash
 Copy code
 python main.py
 
-🧑‍💻 How It Works
+## 🧑‍💻 How It Works
+
 Run the program
 You’ll be shown a menu with options to:
 
@@ -73,7 +71,7 @@ Option 2 displays all expenses neatly.
 
 Option 3 calculates the total expense so far
 
-🧩 Future Enhancements
+## 🧩 Future Enhancements
 Add graphical interface using Tkinter or Streamlit
 
 Add expense filtering by date or category
@@ -84,14 +82,14 @@ Integrate with database (SQLite or MySQL)
 
 Visualize expenses using Matplotlib
 
-🌟 Author
+## 🌟 Author
 👩‍💻 Kavynaya S
 📫 Developed as part of a learning project on Python fundamentals and file handling.
 
-🛡️ License
+## 🛡️ License
 This project is open-source and available under the MIT License.
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions are always welcome!
 Fork the repo and submit a pull request to suggest improvements or fixes.
 
