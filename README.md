@@ -58,15 +58,15 @@ The entry is automatically saved to `expenses.csv`.
 
 1. Clone the Repository
 
-git clone https://github.com/<your-username>/Personal-Expense-Tracker.git
+   git clone https://github.com/<your-username>/Personal-Expense-Tracker.git
 
 2. Navigate into the folder
 
-cd Personal-Expense-Tracker
-
+   cd Personal-Expense-Tracker
+  
 3. Run the program
 
-python main.py
+   python main.py
 
 ---
 
@@ -82,7 +82,7 @@ python main.py
 
 ## 👩‍💻 Author
 
-Kavynaya S 
+👩‍💻 Kavynaya S 
 📘 Developed as part of a learning project on Python fundamentals and file handling.
 
 ---
